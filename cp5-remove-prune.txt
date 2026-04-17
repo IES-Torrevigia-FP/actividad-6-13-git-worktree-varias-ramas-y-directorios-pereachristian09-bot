@@ -1,0 +1,11 @@
+git worktree remove ../wt-feature-a --force
+
+antes: bash: cd: ../actividad-6-13-git-worktree: No existe el archivo o el directorio
+/home/dios/actividad-6-13-git-worktree-varias-ramas-y-directorios-pereachristian09-bot  253ab16 [main]
+/home/dios/wt-feature-a                                                                 41707a5 [feature-a]
+/home/dios/wt-feature-b                                                                 253ab16 [feature-b]
+
+despues:/home/dios/actividad-6-13-git-worktree-varias-ramas-y-directorios-pereachristian09-bot  253ab16 [main]
+/home/dios/wt-feature-b                                                                 253ab16 [feature-b]
+
+la diferencia es que git worktree remove sirve para borrar un worktree que ya no necesitas mientras que git worktree prune sirve para limpiar referencias antiguas.
