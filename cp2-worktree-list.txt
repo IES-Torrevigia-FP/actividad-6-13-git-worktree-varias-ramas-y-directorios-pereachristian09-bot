@@ -1,0 +1,7 @@
+* feature-a
++ main
+
+Se ven 2 worktrees activos del mismo repositorio:
+
+1. Es el directorio principal donde está la rama main.
+2. Es un directorio de trabajo creado con git worktree add.
