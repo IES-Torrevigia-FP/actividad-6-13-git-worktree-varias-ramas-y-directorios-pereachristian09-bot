@@ -1,0 +1,17 @@
+/home/dios/actividad-6-13-git-worktree-varias-ramas-y-directorios-pereachristian09-bot  253ab16 [main]
+/home/dios/wt-feature-a                                                                 41707a5 [feature-a]
+253ab16 (HEAD -> main) Actualiza README en main
+41707a5 (feature-a) Amplía detalles de funcionalidad A
+4c94e6f Añade funcionalidad A
+cd5c186 Commit inicial en main
+196602e (origin/main, origin/HEAD) add deadline
+deb1ad7 Initial commit
+
+cambio en freature-a se ha añadido esto junto a un commit echo "Detalle técnico de la funcionalidad A." >> README.md
+git add README.md
+git commit -m "Amplía detalles de funcionalidad A" 
+
+y en main se ha añadido echo "Cambio independiente en main." >> README.md junto con 
+git commit -m "Actualiza README en main"
+
+
