@@ -1,0 +1,7 @@
+4c94e6f (feature-a) Añade funcionalidad A
+cd5c186 (HEAD -> main) Commit inicial en main
+196602e (origin/main, origin/HEAD) add deadline
+deb1ad7 Initial commit
+
+  feature-a
+* main
